@@ -5,4 +5,7 @@
 We have created a back end application to help with an e-commerce site. Using MySQL2, Express, and Sequelize, and tested with Insomnia. 
 
 
-<vid src="../Assets/ecom.mp4"></vid>
+Link to a video of starting up and running the app is below.
+
+https://github.com/nateghsc09/E-Commerce-Back-End/blob/main/Assets/ecom.mp4
+
